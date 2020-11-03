@@ -1,6 +1,6 @@
 MotionHistoryImage Python Library
 ===================================
-![Publish Python 🐍 distributions 📦 to PyPI](https://github.com/larrett/mhi/workflows/Publish%20Python%20%F0%9F%90%8D%20distributions%20%F0%9F%93%A6%20to%20PyPI/badge.svg)
+![Publish to PyPi](https://github.com/larrett/mhi/workflows/Publish%20Python%20%F0%9F%90%8D%20distributions%20%F0%9F%93%A6%20to%20PyPI/badge.svg)
 
 Image-Processing library built in Python 3.7 allowing developers to easily
 generate MHI images from from a list of frames. A motion history image (MHI) is a static image template
